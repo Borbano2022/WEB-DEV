@@ -1,0 +1,21 @@
+<!DOCTYPT HTML>
+<html>
+    <title>Talisay City College</title>
+    <body>
+        <center> <h1>TALISAY CITY COLLEGE</h1>
+        <image src="tcc.jpg" width="700px" height"300px"></image></center>
+        <h2><strong>VISION</strong></h2>
+        <p><strong>TALISAY CITY COLLEGE</strong>is globally competitive academic institution committed to meet the needs and challenges of time through excellent implementation of hoplistic curricular programs.</p>
+        <h3><strong>MISSION</strong></h3>
+        <P><em>TALISAY CITY COLLEGE</em>is propelled by the institution's committed to:</P>
+        <li>Provide quality and value-laden education through affordable tertiary education;</li>
+        <li>Be actively involved in community outreach projects aligned with its thrusts;</li>
+        <h4><strong>GOALS</strong></h4>
+        <p><strong><em>TALISAY CITY COLLEGE</em></strong>commits itself to the following directions</p>
+        <ol>1.Strenghten TEACHER EDUCATION, INDUSTRAIL TECHNOLOGY, HOSPITALITY MANAGEMENT and other envisioned programs for the total development of students 
+            making them productive members of pluralistic society.
+        <br>2.Immerse one's self in service to the community</ol>
+        
+    </body>
+
+</html>
